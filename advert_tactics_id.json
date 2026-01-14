@@ -1,0 +1,440 @@
+[
+  {
+    "id": 32,
+    "runTime": 7,
+    "name": "小米自然量-新用户（新激励）",
+    "config": "[{\"advertIds\": \"f2a2b48eb7b05a7bf88863a78c1a1ee2\", \"advertType\": 2, \"advertScene\": \"*\"}, {\"advertIds\": \"b2916a56efcd54120812a895a1df36bf\", \"advertType\": 1, \"advertScene\": \"*\"}, {\"advertIds\": \"96fa08b65def16e14ba637c88d8809df\", \"advertType\": 4, \"advertScene\": \"46,44,93\"}, {\"advertIds\": \"444447a9f676c7dfa6bc154353d0eccf\", \"advertType\": 6, \"advertScene\": \"64,62\"}]"
+  },
+  {
+    "id": 33,
+    "runTime": 7,
+    "name": "小米买量-新用户（新激励）",
+    "config": "[{\"advertIds\": \"b78858b580d80754a274bb38ff05e659\", \"advertType\": 2, \"advertScene\": \"*\"}, {\"advertIds\": \"f65bcbce4a7ece0eb183bea81ad8871a\", \"advertType\": 1, \"advertScene\": \"*\"}, {\"advertIds\": \"05c019e4dc56bb88b9ad5a245bac2cae\", \"advertType\": 4, \"advertScene\": \"46,44,93\"}, {\"advertIds\": \"d9466a1ca0cbea22f47d56e328bf7b8e\", \"advertType\": 6, \"advertScene\": \"64,62\"}]"
+  },
+  {
+    "id": 34,
+    "runTime": 7,
+    "name": "小米-老用户（新激励）",
+    "config": "[{\"advertIds\": \"08fd7dbe695f14d69c15ada7ed7f60d4\", \"advertType\": 2, \"advertScene\": \"*\"}, {\"advertIds\": \"5af1362188de3f09923381069f224340\", \"advertType\": 1, \"advertScene\": \"*\"}, {\"advertIds\": \"36f2b4cdfd40d7b5fa347dbc222a5800\", \"advertType\": 4, \"advertScene\": \"46,44,93\"}, {\"advertIds\": \"413f965f75ad135037bceae52c0a6414\", \"advertType\": 6, \"advertScene\": \"64,62\"}]"
+  },
+  {
+    "id": 35,
+    "runTime": 3,
+    "name": "oppo自然量-新",
+    "config": "[{\"advertIds\": \"1763338,1763341,3150091,3150083\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,18,4,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,32,31,33,35,34,36,37,38,39,40,41,42,43,49,50,51,78,79,80\", \"advertIdsSort\": []}, {\"advertIds\": \"1763348\", \"advertType\": 4, \"advertScene\": \"44,45\", \"advertIdsSort\": []}, {\"advertIds\": \"1763327\", \"advertType\": 1, \"advertScene\": \"*\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 36,
+    "runTime": 3,
+    "name": "oppo一体两面-新用户",
+    "config": "[{\"advertIds\": \"3150074,3150056,3149980,3368415\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,78,79,80\", \"advertIdsSort\": []}, {\"advertIds\": \"3150149\", \"advertType\": 4, \"advertScene\": \"44,45\", \"advertIdsSort\": []}, {\"advertIds\": \"3150320\", \"advertType\": 1, \"advertScene\": \"*\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 37,
+    "runTime": 3,
+    "name": "oppo老用户-一体两面",
+    "config": "[{\"advertIds\": \"3368420,3368423,3368424,3368440\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,33,32,34,35,36,37,38,39,40,41,42,43,49,50,51,78,79,80\", \"advertIdsSort\": []}, {\"advertIds\": \"3150146\", \"advertType\": 4, \"advertScene\": \"44,45\", \"advertIdsSort\": []}, {\"advertIds\": \"3150312\", \"advertType\": 1, \"advertScene\": \"*\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 38,
+    "runTime": 5,
+    "name": "小米APK-新用户-自然量",
+    "config": "[{\"advertIds\": \"edd6fc7b25174722b6d967184c502504\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,71,78,79,80,96\", \"advertIdsSort\": []}, {\"advertIds\": \"041d372277f419e8f8626aecb02a61f0\", \"advertType\": 4, \"advertScene\": \"44,46,75,93,94,95\", \"advertIdsSort\": []}, {\"advertIds\": \"329db98750ff00470ee42169c5709702\", \"advertType\": 1, \"advertScene\": \"*\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 39,
+    "runTime": 5,
+    "name": "小米APK-新用户-快手",
+    "config": "[{\"advertIds\": \"79262c5e19c8433b226602af2e3b4c76\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,71,78,79,80,96\", \"advertIdsSort\": []}, {\"advertIds\": \"6c28e754008eb0ea27d740cb7064bd1f\", \"advertType\": 4, \"advertScene\": \"46,44,75,93,94,95\", \"advertIdsSort\": []}, {\"advertIds\": \"fa29c49a36c7d67a7d3e907c2710dedb\", \"advertType\": 1, \"advertScene\": \"*\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 40,
+    "runTime": 5,
+    "name": "小米APK-老用户-自然量",
+    "config": "[{\"advertIds\": \"99d6226f3ecf48cd34a3fe5d9fa96c7b\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,71,78,79,80,96\", \"advertIdsSort\": []}, {\"advertIds\": \"0db8808f046c2fec93831892b5f8d68f\", \"advertType\": 4, \"advertScene\": \"46,44,75,93,94,95\", \"advertIdsSort\": []}, {\"advertIds\": \"17444434835fbb6c668e5064dc16c266\", \"advertType\": 1, \"advertScene\": \"*\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 41,
+    "runTime": 5,
+    "name": "小米APK-新用户-腾讯",
+    "config": "[{\"advertIds\": \"e875873b3115d1031fe368b21ca307ad\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,71,78,79,80,96\", \"advertIdsSort\": []}, {\"advertIds\": \"40e63560c4194e8668cd170e130c21e5\", \"advertType\": 4, \"advertScene\": \"46,44,75,93,94,95\", \"advertIdsSort\": []}, {\"advertIds\": \"a6761ad9826a5a51dda2bd16763d4ee7\", \"advertType\": 1, \"advertScene\": \"*\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 42,
+    "runTime": 5,
+    "name": "小米APK-新用户-小米商店",
+    "config": "[{\"advertIds\": \"95ec153f56bcbeaf0116e26d6c51f286\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,71,78,79,80,96\", \"advertIdsSort\": []}, {\"advertIds\": \"3af32f85f6b74cffb1d46c455f9974ce\", \"advertType\": 4, \"advertScene\": \"46,44,75,93,94,95\", \"advertIdsSort\": []}, {\"advertIds\": \"d42b1fd85ac31e768b3856d0b755aed8\", \"advertType\": 1, \"advertScene\": \"*\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 43,
+    "runTime": 5,
+    "name": "小米APK-老用户-快手",
+    "config": "[{\"advertIds\": \"93d9174e407a77c43d3b22d61facc124\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,25,15,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,16,14,20,27,3,22,34,31,32,33,35,36,38,37,39,40,41,42,43,49,50,51,79,78,80,71,96\", \"advertIdsSort\": []}, {\"advertIds\": \"2b181aa5ca677c385c919c1624b6f2ad\", \"advertType\": 4, \"advertScene\": \"46,44,75,93,94,95\", \"advertIdsSort\": []}, {\"advertIds\": \"2aaaf46ea805583b65ed079bf58da112\", \"advertType\": 1, \"advertScene\": \"*\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 44,
+    "runTime": 5,
+    "name": "小米APK-老用户-腾讯",
+    "config": "[{\"advertIds\": \"9d38630bb01463773f44da0ea129cc45\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,71,78,79,80,96\", \"advertIdsSort\": []}, {\"advertIds\": \"0d83288fab8864d513f421b0e000cd1a\", \"advertType\": 4, \"advertScene\": \"46,44,75,93,94,95\", \"advertIdsSort\": []}, {\"advertIds\": \"75033a8e474213d5883f77d023a0cdbf\", \"advertType\": 1, \"advertScene\": \"*\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 45,
+    "runTime": 5,
+    "name": "小米APK-老用户-小米商店",
+    "config": "[{\"advertIds\": \"f4ba43c2f0548c135d1f3d07d35deeee\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,71,78,79,80,96\", \"advertIdsSort\": []}, {\"advertIds\": \"0422392f1cd838c9e5a55783c7cd8985\", \"advertType\": 4, \"advertScene\": \"46,44,75,93,94,95\", \"advertIdsSort\": []}, {\"advertIds\": \"c2d57bf85ad6c60b0d4086beeba7f8b4\", \"advertType\": 1, \"advertScene\": \"*\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 46,
+    "runTime": 7,
+    "name": "小米自然量-新用户（点击发奖）",
+    "config": "[{\"advertIds\": \"07c8b4118e73091940dc88c10415ce3c\", \"advertType\": 2, \"advertScene\": \"*\"}, {\"advertIds\": \"b2916a56efcd54120812a895a1df36bf\", \"advertType\": 1, \"advertScene\": \"*\"}, {\"advertIds\": \"96fa08b65def16e14ba637c88d8809df\", \"advertType\": 4, \"advertScene\": \"44,46,93\"}, {\"advertIds\": \"444447a9f676c7dfa6bc154353d0eccf\", \"advertType\": 6, \"advertScene\": \"62,64\"}]"
+  },
+  {
+    "id": 47,
+    "runTime": 7,
+    "name": "小米买量-新用户",
+    "config": "[{\"advertIds\": \"2408ccff1539e7c9807efa2750d7620c\", \"advertType\": 2, \"advertScene\": \"*\"}, {\"advertIds\": \"05c019e4dc56bb88b9ad5a245bac2cae\", \"advertType\": 4, \"advertScene\": \"44,46,93\"}, {\"advertIds\": \"f65bcbce4a7ece0eb183bea81ad8871a\", \"advertType\": 1, \"advertScene\": \"*\"}, {\"advertIds\": \"d9466a1ca0cbea22f47d56e328bf7b8e\", \"advertType\": 6, \"advertScene\": \"62,64\"}]"
+  },
+  {
+    "id": 48,
+    "runTime": 7,
+    "name": "小米-老用户（点击发奖）",
+    "config": "[{\"advertIds\": \"0e3d8665b48d26e03e72b71c0d48fe00\", \"advertType\": 2, \"advertScene\": \"*\"}, {\"advertIds\": \"5af1362188de3f09923381069f224340\", \"advertType\": 1, \"advertScene\": \"*\"}, {\"advertIds\": \"36f2b4cdfd40d7b5fa347dbc222a5800\", \"advertType\": 4, \"advertScene\": \"44,46,93\"}, {\"advertIds\": \"413f965f75ad135037bceae52c0a6414\", \"advertType\": 6, \"advertScene\": \"62,64\"}]"
+  },
+  {
+    "id": 49,
+    "runTime": 100,
+    "name": "自然量-新",
+    "config": "[{\"advertIds\": \"2520225,2933168,2933209,2933542,2933574\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,2,30,14,12,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,78,80,79\"}, {\"advertIds\": \"2628712\", \"advertType\": 4, \"advertScene\": \"44,45\"}, {\"advertIds\": \"2628656\", \"advertType\": 1, \"advertScene\": \"*\"}, {\"advertIds\": \"2916151\", \"advertType\": 5, \"advertScene\": \"69\"}, {\"advertIds\": \"2916154\", \"advertType\": 5, \"advertScene\": \"67\"}]"
+  },
+  {
+    "id": 50,
+    "runTime": 100,
+    "name": "买量-新",
+    "config": "[{\"advertIds\": \"2916165,2933673,2933675,2933677,2933679\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,30,23,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,78,79,80\"}, {\"advertIds\": \"2916167\", \"advertType\": 4, \"advertScene\": \"44,45\"}, {\"advertIds\": \"2916161\", \"advertType\": 5, \"advertScene\": \"69\"}, {\"advertIds\": \"2916166\", \"advertType\": 1, \"advertScene\": \"*\"}, {\"advertIds\": \"2916158\", \"advertType\": 5, \"advertScene\": \"67\"}]"
+  },
+  {
+    "id": 51,
+    "runTime": 100,
+    "name": "老用户",
+    "config": "[{\"advertIds\": \"2916253,2933662,2933665,2933667,2933669\", \"advertType\": 2, \"advertScene\": \"6,13,7,1,25,15,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,71,78,79,80\"}, {\"advertIds\": \"2916257\", \"advertType\": 4, \"advertScene\": \"44,45\"}, {\"advertIds\": \"2916206\", \"advertType\": 5, \"advertScene\": \"69\"}, {\"advertIds\": \"2916255\", \"advertType\": 1, \"advertScene\": \"*\"}, {\"advertIds\": \"2916209\", \"advertType\": 5, \"advertScene\": \"67\"}]"
+  },
+  {
+    "id": 52,
+    "runTime": 7,
+    "name": "腾讯优量汇1t2m-新用户",
+    "config": "[{\"advertIds\": \"9fa4b182d7691d909da740468ded35f9\", \"advertType\": 2, \"advertScene\": \"*\"}, {\"advertIds\": \"ecabfe4cd3168a86fdd66dcf6fbccacb\", \"advertType\": 4, \"advertScene\": \"44,46,93\"}, {\"advertIds\": \"8deeea91280a966690d72452679007c8\", \"advertType\": 1, \"advertScene\": \"*\"}]"
+  },
+  {
+    "id": 53,
+    "runTime": 101,
+    "name": "通用",
+    "config": "[{\"advertIds\": \"3045056\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,71,78,79,80\"}]"
+  },
+  {
+    "id": 54,
+    "runTime": 5,
+    "name": "小米APK-新用户-小米非商",
+    "config": "[{\"advertIds\": \"7f98bb3c577704af53b0fe53543282ea\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,71,78,79,80,96\", \"advertIdsSort\": []}, {\"advertIds\": \"60f7ef974c394c8f80cc88e539b8bc98\", \"advertType\": 4, \"advertScene\": \"44,46,75,94,93,95\", \"advertIdsSort\": []}, {\"advertIds\": \"74a12e784786974f809ea6ef09866854\", \"advertType\": 1, \"advertScene\": \"52,53,54,55,56,57,58,59,60,61,66,81,82,83,84,85,86,87,88,89,90,91,92\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 55,
+    "runTime": 5,
+    "name": "小米APK-老用户-小米非商",
+    "config": "[{\"advertIds\": \"fbf39c0f9364df3fd5dc578dbdc8037a\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,71,78,79,80,96\", \"advertIdsSort\": []}, {\"advertIds\": \"78745b72748960111e509b7359aae4ad\", \"advertType\": 4, \"advertScene\": \"44,46,75,93,94,95\", \"advertIdsSort\": []}, {\"advertIds\": \"bb9b275af305ae16b026e938a8836af0\", \"advertType\": 1, \"advertScene\": \"52,53,54,55,56,57,58,59,60,61,66,81,82,83,84,85,86,87,88,89,90,91,92\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 56,
+    "runTime": 5,
+    "name": "小米APK-老用户-米盟",
+    "config": "[{\"advertIds\": \"52508d60524fa43e3e4de5b8e15cc0dd\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,71,78,79,80,96\", \"advertIdsSort\": []}, {\"advertIds\": \"3ffdd0869946a91139e2bd140cdb34d2\", \"advertType\": 4, \"advertScene\": \"44,46,75,93,94,95\", \"advertIdsSort\": []}, {\"advertIds\": \"d0384245ed79ab963962df7b85afe07a\", \"advertType\": 1, \"advertScene\": \"52,53,54,55,56,57,58,59,60,61,66,81,82,83,84,85,86,87,88,89,90,91,92\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 57,
+    "runTime": 5,
+    "name": "小米APK-新用户-米盟",
+    "config": "[{\"advertIds\": \"e5c076e064deae63a5835b884acd9604\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,71,78,79,80,96\", \"advertIdsSort\": []}, {\"advertIds\": \"65b46b22a7967770ccaa1bb17d0e5434\", \"advertType\": 4, \"advertScene\": \"44,46,75,93,94,95\", \"advertIdsSort\": []}, {\"advertIds\": \"a8c9eee38e8596e52f48ad8709d62f13\", \"advertType\": 1, \"advertScene\": \"52,53,54,55,56,57,58,59,60,61,66,81,82,83,84,85,86,87,88,89,90,91,92\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 58,
+    "runTime": 5,
+    "name": "白名单",
+    "config": "[{\"advertIds\": \"e38d13b7e74d8b334b68c381e87aff43\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,71,78,79,80,96\", \"advertIdsSort\": []}, {\"advertIds\": \"d87cf22dc00e80b26c6d60882b638d58\", \"advertType\": 4, \"advertScene\": \"46,77,75\", \"advertIdsSort\": []}, {\"advertIds\": \"f046fe445852e87608a5d360d86ffce3\", \"advertType\": 1, \"advertScene\": \"52,53,54,55,56,57,58,59,60,61,66,81,82,83,84,85,86,87,88,89,90,91,92\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 59,
+    "runTime": 5,
+    "name": "不支持新激励渠道（备注：应用版本\u003c126，不支持新激励广告）",
+    "config": "[{\"advertIds\": \"1c59d7719faf75f1bcc76db48684ea68\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,78,79,80,96\", \"advertIdsSort\": []}, {\"advertIds\": \"ba63a9f46dc87c360fd188b69b28a1c2\", \"advertType\": 4, \"advertScene\": \"44,45,46,75,94,95,93\", \"advertIdsSort\": []}, {\"advertIds\": \"59e9799ad404cb703f88b6ff7a9ce8a7\", \"advertType\": 1, \"advertScene\": \"52,53,54,55,56,57,58,59,60,61,66,81,82,83,84,85,86,87,88,89,90,91,92\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 60,
+    "runTime": 10,
+    "name": "自然量-新用户",
+    "config": "[{\"advertIds\": \"3210762\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,78,79,80\", \"advertIdsSort\": []}, {\"advertIds\": \"3210738\", \"advertType\": 4, \"advertScene\": \"44,45\", \"advertIdsSort\": []}, {\"advertIds\": \"3210750\", \"advertType\": 1, \"advertScene\": \"52,53,54,55,56,57,58,59,60,61,66,81,82,83,84,85,86,87,88,89,90,91,92\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 61,
+    "runTime": 10,
+    "name": "自然量-老用户",
+    "config": "[{\"advertIds\": \"3210557\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,78,79,80\", \"advertIdsSort\": []}, {\"advertIds\": \"3210525\", \"advertType\": 4, \"advertScene\": \"44,45\", \"advertIdsSort\": []}, {\"advertIds\": \"3210550\", \"advertType\": 1, \"advertScene\": \"52,53,54,55,56,57,58,59,60,61,66,81,82,83,84,85,86,87,88,89,90,91,92\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 62,
+    "runTime": 10,
+    "name": "买量-新用户",
+    "config": "[{\"advertIds\": \"3210634\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,78,79,80\", \"advertIdsSort\": []}, {\"advertIds\": \"3210625\", \"advertType\": 4, \"advertScene\": \"44,45\", \"advertIdsSort\": []}, {\"advertIds\": \"3210630\", \"advertType\": 1, \"advertScene\": \"52,53,54,55,56,57,58,59,60,61,66,81,82,83,84,85,86,87,88,89,90,91,92\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 63,
+    "runTime": 10,
+    "name": "买量-老用户",
+    "config": "[{\"advertIds\": \"3210571\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,78,79,80\", \"advertIdsSort\": []}, {\"advertIds\": \"3210549\", \"advertType\": 4, \"advertScene\": \"44,45\", \"advertIdsSort\": []}, {\"advertIds\": \"3210551\", \"advertType\": 1, \"advertScene\": \"52,53,54,55,56,57,58,59,60,61,66,81,82,83,84,85,86,87,88,89,90,91,92\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 64,
+    "runTime": 20,
+    "name": "自然量-新用户",
+    "config": "[{\"advertIds\": \"81f3d573b3e0499fab1922e75a586266\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,71,78,79,80\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 65,
+    "runTime": 20,
+    "name": "自然量-老用户",
+    "config": "[{\"advertIds\": \"54c9104da31442b39807824b379a944b\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,71,78,79,80\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 66,
+    "runTime": 21,
+    "name": "自然量-新用户",
+    "config": "[{\"advertIds\": \"4c4392d091f94848a187c9f7fbf6e43a\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,71,78,79,80\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 67,
+    "runTime": 21,
+    "name": "自然量-老用户",
+    "config": "[{\"advertIds\": \"a11d7ef663a0ab28483df85de8d09943\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,71,78,79,80\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 68,
+    "runTime": 3,
+    "name": "oppo-自然量-老用户",
+    "config": "[{\"advertIds\": \"3368441,3368443,3368444,3368445\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,78,79,80\", \"advertIdsSort\": []}, {\"advertIds\": \"1763354\", \"advertType\": 4, \"advertScene\": \"44,45\", \"advertIdsSort\": []}, {\"advertIds\": \"1847642\", \"advertType\": 1, \"advertScene\": \"*\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 69,
+    "runTime": 5,
+    "name": "马甲包-自然量（新用户）",
+    "config": "[{\"advertIds\": \"dbc80d32f5c5f0d1e9fbdd3413ba3365\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,71,78,79,80,96\", \"advertIdsSort\": []}, {\"advertIds\": \"825c30e85f8df53921cfb249b0999a40\", \"advertType\": 4, \"advertScene\": \"44,46,75,95,94,93\", \"advertIdsSort\": []}, {\"advertIds\": \"b5778ffeb28c6f8ed41e9066282e71af\", \"advertType\": 1, \"advertScene\": \"*\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 70,
+    "runTime": 5,
+    "name": "马甲包-头条买量（新用户）",
+    "config": "[{\"advertIds\": \"b793c8e9f150e7cd7f676a50699ac339\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,71,78,79,80,96\", \"advertIdsSort\": []}, {\"advertIds\": \"5bc5416ad2d496ac00d56e31eb52ecca\", \"advertType\": 4, \"advertScene\": \"44,46,75,93,94,95\", \"advertIdsSort\": []}, {\"advertIds\": \"ef3d556be41814358dcc43757efd7806\", \"advertType\": 1, \"advertScene\": \"*\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 71,
+    "runTime": 5,
+    "name": "马甲包-自然量（老用户）",
+    "config": "[{\"advertIds\": \"50e7ecbeac0ff208304f402da7c5396e\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,71,78,79,80,96\", \"advertIdsSort\": []}, {\"advertIds\": \"4c63f337a97094a639850595823d9d1c\", \"advertType\": 4, \"advertScene\": \"44,46,75,93,94,95\", \"advertIdsSort\": []}, {\"advertIds\": \"a4756109ed26dc42c24e6151a69ff810\", \"advertType\": 1, \"advertScene\": \"*\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 72,
+    "runTime": 5,
+    "name": "马甲包-头条买量（老用户）",
+    "config": "[{\"advertIds\": \"226bad0d04cb2291312556d8e09d8760\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,71,78,79,80,96\", \"advertIdsSort\": []}, {\"advertIds\": \"7b459a8e6aaf2c8d7f0ce6081a80433c\", \"advertType\": 4, \"advertScene\": \"44,46,75,93,94,95\", \"advertIdsSort\": []}, {\"advertIds\": \"b33c1978fe49273ed51a932fc9964dfe\", \"advertType\": 1, \"advertScene\": \"*\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 73,
+    "runTime": 31,
+    "name": "自然量-新用户",
+    "config": "[{\"advertIds\": \"j8grucvcir\", \"advertType\": 2, \"advertScene\": \"*\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 74,
+    "runTime": 31,
+    "name": "买量-新用户",
+    "config": "[{\"advertIds\": \"d79tok0jkz\", \"advertType\": 2, \"advertScene\": \"*\", \"advertIdsSort\": []}, {\"advertIds\": \"k5ebph4k7z\", \"advertType\": 1, \"advertScene\": \"*\", \"advertIdsSort\": []}, {\"advertIds\": \"j526l91zbv\", \"advertType\": 4, \"advertScene\": \"46,44,93\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 75,
+    "runTime": 31,
+    "name": "自然量-老用户",
+    "config": "[{\"advertIds\": \"k95s8cvdbd\", \"advertType\": 2, \"advertScene\": \"*\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 76,
+    "runTime": 31,
+    "name": "小米自然量-新用户（点击发奖）",
+    "config": "[{\"advertIds\": \"07c8b4118e73091940dc88c10415ce3c\", \"advertType\": 2, \"advertScene\": \"*\"}, {\"advertIds\": \"b2916a56efcd54120812a895a1df36bf\", \"advertType\": 1, \"advertScene\": \"*\"}, {\"advertIds\": \"96fa08b65def16e14ba637c88d8809df\", \"advertType\": 4, \"advertScene\": \"44,46,93\"}, {\"advertIds\": \"444447a9f676c7dfa6bc154353d0eccf\", \"advertType\": 6, \"advertScene\": \"62,64\"}]"
+  },
+  {
+    "id": 77,
+    "runTime": 31,
+    "name": "买量-老用户",
+    "config": "[{\"advertIds\": \"v0snlbd9od\", \"advertType\": 2, \"advertScene\": \"*\", \"advertIdsSort\": []}, {\"advertIds\": \"i53k6ofdjx\", \"advertType\": 4, \"advertScene\": \"44,46,93\", \"advertIdsSort\": []}, {\"advertIds\": \"u55p57m58r\", \"advertType\": 1, \"advertScene\": \"*\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 78,
+    "runTime": 31,
+    "name": "小米-老用户（点击发奖）",
+    "config": "[{\"advertIds\": \"0e3d8665b48d26e03e72b71c0d48fe00\", \"advertType\": 2, \"advertScene\": \"*\"}, {\"advertIds\": \"5af1362188de3f09923381069f224340\", \"advertType\": 1, \"advertScene\": \"*\"}, {\"advertIds\": \"36f2b4cdfd40d7b5fa347dbc222a5800\", \"advertType\": 4, \"advertScene\": \"44,46,93\"}, {\"advertIds\": \"413f965f75ad135037bceae52c0a6414\", \"advertType\": 6, \"advertScene\": \"62,64\"}]"
+  },
+  {
+    "id": 79,
+    "runTime": 31,
+    "name": "腾讯优量汇1t2m-新用户",
+    "config": "[{\"advertIds\": \"9fa4b182d7691d909da740468ded35f9\", \"advertType\": 2, \"advertScene\": \"*\"}, {\"advertIds\": \"ecabfe4cd3168a86fdd66dcf6fbccacb\", \"advertType\": 4, \"advertScene\": \"44,46,93\"}, {\"advertIds\": \"8deeea91280a966690d72452679007c8\", \"advertType\": 1, \"advertScene\": \"*\"}]"
+  },
+  {
+    "id": 80,
+    "runTime": 30,
+    "name": "自然量-新用户",
+    "config": "[{\"advertIds\": \"g8b234nkaa\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,71,78,79,80,96\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 81,
+    "runTime": 30,
+    "name": "买量-新用户",
+    "config": "[{\"advertIds\": \"a29rcv9x5z\", \"advertType\": 2, \"advertScene\": \"*\", \"advertIdsSort\": []}, {\"advertIds\": \"i9axh3dnqx\", \"advertType\": 1, \"advertScene\": \"*\", \"advertIdsSort\": []}, {\"advertIds\": \"j40tge050q\", \"advertType\": 4, \"advertScene\": \"44,46,75,93,94,95\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 82,
+    "runTime": 30,
+    "name": "自然量-老用户",
+    "config": "[{\"advertIds\": \"h7k0dcsutq\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,71,78,79,80,96\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 83,
+    "runTime": 30,
+    "name": "买量-老用户",
+    "config": "[{\"advertIds\": \"f8gzktitzy\", \"advertType\": 2, \"advertScene\": \"*\", \"advertIdsSort\": []}, {\"advertIds\": \"s9ogh72dxf\", \"advertType\": 1, \"advertScene\": \"*\", \"advertIdsSort\": []}, {\"advertIds\": \"c853x046gb\", \"advertType\": 4, \"advertScene\": \"44,46,93,75,94,95\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 84,
+    "runTime": 30,
+    "name": "小米买量-新用户",
+    "config": "[{\"advertIds\": \"2408ccff1539e7c9807efa2750d7620c\", \"advertType\": 2, \"advertScene\": \"*\"}, {\"advertIds\": \"05c019e4dc56bb88b9ad5a245bac2cae\", \"advertType\": 4, \"advertScene\": \"44,46,93\"}, {\"advertIds\": \"f65bcbce4a7ece0eb183bea81ad8871a\", \"advertType\": 1, \"advertScene\": \"*\"}, {\"advertIds\": \"d9466a1ca0cbea22f47d56e328bf7b8e\", \"advertType\": 6, \"advertScene\": \"62,64\"}]"
+  },
+  {
+    "id": 85,
+    "runTime": 30,
+    "name": "小米-老用户（点击发奖）",
+    "config": "[{\"advertIds\": \"0e3d8665b48d26e03e72b71c0d48fe00\", \"advertType\": 2, \"advertScene\": \"*\"}, {\"advertIds\": \"5af1362188de3f09923381069f224340\", \"advertType\": 1, \"advertScene\": \"*\"}, {\"advertIds\": \"36f2b4cdfd40d7b5fa347dbc222a5800\", \"advertType\": 4, \"advertScene\": \"44,46,93\"}, {\"advertIds\": \"413f965f75ad135037bceae52c0a6414\", \"advertType\": 6, \"advertScene\": \"62,64\"}]"
+  },
+  {
+    "id": 86,
+    "runTime": 30,
+    "name": "腾讯优量汇1t2m-新用户",
+    "config": "[{\"advertIds\": \"9fa4b182d7691d909da740468ded35f9\", \"advertType\": 2, \"advertScene\": \"*\"}, {\"advertIds\": \"ecabfe4cd3168a86fdd66dcf6fbccacb\", \"advertType\": 4, \"advertScene\": \"44,46,93\"}, {\"advertIds\": \"8deeea91280a966690d72452679007c8\", \"advertType\": 1, \"advertScene\": \"*\"}]"
+  },
+  {
+    "id": 87,
+    "runTime": 40,
+    "name": "小米APK-新用户-自然量",
+    "config": "[{\"advertIds\": \"b3ftp9iao6\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,71,78,79,80,96\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 88,
+    "runTime": 40,
+    "name": "小米APK-新用户-快手",
+    "config": "[{\"advertIds\": \"79262c5e19c8433b226602af2e3b4c76\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,71,78,79,80,96\", \"advertIdsSort\": []}, {\"advertIds\": \"6c28e754008eb0ea27d740cb7064bd1f\", \"advertType\": 4, \"advertScene\": \"46,44,75,93,94,95\", \"advertIdsSort\": []}, {\"advertIds\": \"fa29c49a36c7d67a7d3e907c2710dedb\", \"advertType\": 1, \"advertScene\": \"*\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 89,
+    "runTime": 40,
+    "name": "小米APK-老用户-自然量",
+    "config": "[{\"advertIds\": \"d0wuhuhnk2\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,71,78,79,80,96\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 90,
+    "runTime": 40,
+    "name": "小米APK-新用户-腾讯",
+    "config": "[{\"advertIds\": \"e875873b3115d1031fe368b21ca307ad\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,71,78,79,80,96\", \"advertIdsSort\": []}, {\"advertIds\": \"40e63560c4194e8668cd170e130c21e5\", \"advertType\": 4, \"advertScene\": \"46,44,75,93,94,95\", \"advertIdsSort\": []}, {\"advertIds\": \"a6761ad9826a5a51dda2bd16763d4ee7\", \"advertType\": 1, \"advertScene\": \"*\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 91,
+    "runTime": 40,
+    "name": "小米APK-新用户-小米商店",
+    "config": "[{\"advertIds\": \"95ec153f56bcbeaf0116e26d6c51f286\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,71,78,79,80,96\", \"advertIdsSort\": []}, {\"advertIds\": \"3af32f85f6b74cffb1d46c455f9974ce\", \"advertType\": 4, \"advertScene\": \"46,44,75,93,94,95\", \"advertIdsSort\": []}, {\"advertIds\": \"d42b1fd85ac31e768b3856d0b755aed8\", \"advertType\": 1, \"advertScene\": \"*\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 92,
+    "runTime": 40,
+    "name": "小米APK-老用户-快手",
+    "config": "[{\"advertIds\": \"93d9174e407a77c43d3b22d61facc124\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,25,15,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,16,14,20,27,3,22,34,31,32,33,35,36,38,37,39,40,41,42,43,49,50,51,79,78,80,71,96\", \"advertIdsSort\": []}, {\"advertIds\": \"2b181aa5ca677c385c919c1624b6f2ad\", \"advertType\": 4, \"advertScene\": \"46,44,75,93,94,95\", \"advertIdsSort\": []}, {\"advertIds\": \"2aaaf46ea805583b65ed079bf58da112\", \"advertType\": 1, \"advertScene\": \"*\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 93,
+    "runTime": 40,
+    "name": "小米APK-老用户-腾讯",
+    "config": "[{\"advertIds\": \"9d38630bb01463773f44da0ea129cc45\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,71,78,79,80,96\", \"advertIdsSort\": []}, {\"advertIds\": \"0d83288fab8864d513f421b0e000cd1a\", \"advertType\": 4, \"advertScene\": \"46,44,75,93,94,95\", \"advertIdsSort\": []}, {\"advertIds\": \"75033a8e474213d5883f77d023a0cdbf\", \"advertType\": 1, \"advertScene\": \"*\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 94,
+    "runTime": 40,
+    "name": "小米APK-老用户-小米商店",
+    "config": "[{\"advertIds\": \"f4ba43c2f0548c135d1f3d07d35deeee\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,71,78,79,80,96\", \"advertIdsSort\": []}, {\"advertIds\": \"0422392f1cd838c9e5a55783c7cd8985\", \"advertType\": 4, \"advertScene\": \"46,44,75,93,94,95\", \"advertIdsSort\": []}, {\"advertIds\": \"c2d57bf85ad6c60b0d4086beeba7f8b4\", \"advertType\": 1, \"advertScene\": \"*\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 95,
+    "runTime": 40,
+    "name": "小米APK-新用户-小米非商",
+    "config": "[{\"advertIds\": \"7f98bb3c577704af53b0fe53543282ea\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,71,78,79,80,96\", \"advertIdsSort\": []}, {\"advertIds\": \"60f7ef974c394c8f80cc88e539b8bc98\", \"advertType\": 4, \"advertScene\": \"44,46,75,94,93,95\", \"advertIdsSort\": []}, {\"advertIds\": \"74a12e784786974f809ea6ef09866854\", \"advertType\": 1, \"advertScene\": \"52,53,54,55,56,57,58,59,60,61,66,81,82,83,84,85,86,87,88,89,90,91,92\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 96,
+    "runTime": 40,
+    "name": "小米APK-老用户-小米非商",
+    "config": "[{\"advertIds\": \"fbf39c0f9364df3fd5dc578dbdc8037a\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,71,78,79,80,96\", \"advertIdsSort\": []}, {\"advertIds\": \"78745b72748960111e509b7359aae4ad\", \"advertType\": 4, \"advertScene\": \"44,46,75,93,94,95\", \"advertIdsSort\": []}, {\"advertIds\": \"bb9b275af305ae16b026e938a8836af0\", \"advertType\": 1, \"advertScene\": \"52,53,54,55,56,57,58,59,60,61,66,81,82,83,84,85,86,87,88,89,90,91,92\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 97,
+    "runTime": 40,
+    "name": "小米APK-老用户-米盟",
+    "config": "[{\"advertIds\": \"52508d60524fa43e3e4de5b8e15cc0dd\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,71,78,79,80,96\", \"advertIdsSort\": []}, {\"advertIds\": \"3ffdd0869946a91139e2bd140cdb34d2\", \"advertType\": 4, \"advertScene\": \"44,46,75,93,94,95\", \"advertIdsSort\": []}, {\"advertIds\": \"d0384245ed79ab963962df7b85afe07a\", \"advertType\": 1, \"advertScene\": \"52,53,54,55,56,57,58,59,60,61,66,81,82,83,84,85,86,87,88,89,90,91,92\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 98,
+    "runTime": 40,
+    "name": "小米APK-新用户-米盟",
+    "config": "[{\"advertIds\": \"e5c076e064deae63a5835b884acd9604\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,71,78,79,80,96\", \"advertIdsSort\": []}, {\"advertIds\": \"65b46b22a7967770ccaa1bb17d0e5434\", \"advertType\": 4, \"advertScene\": \"44,46,75,93,94,95\", \"advertIdsSort\": []}, {\"advertIds\": \"a8c9eee38e8596e52f48ad8709d62f13\", \"advertType\": 1, \"advertScene\": \"52,53,54,55,56,57,58,59,60,61,66,81,82,83,84,85,86,87,88,89,90,91,92\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 99,
+    "runTime": 40,
+    "name": "白名单",
+    "config": "[{\"advertIds\": \"e38d13b7e74d8b334b68c381e87aff43\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,71,78,79,80,96\", \"advertIdsSort\": []}, {\"advertIds\": \"d87cf22dc00e80b26c6d60882b638d58\", \"advertType\": 4, \"advertScene\": \"46,77,75\", \"advertIdsSort\": []}, {\"advertIds\": \"f046fe445852e87608a5d360d86ffce3\", \"advertType\": 1, \"advertScene\": \"52,53,54,55,56,57,58,59,60,61,66,81,82,83,84,85,86,87,88,89,90,91,92\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 100,
+    "runTime": 40,
+    "name": "不支持新激励渠道（备注：应用版本\u003c126，不支持新激励广告）",
+    "config": "[{\"advertIds\": \"1c59d7719faf75f1bcc76db48684ea68\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,78,79,80,96\", \"advertIdsSort\": []}, {\"advertIds\": \"ba63a9f46dc87c360fd188b69b28a1c2\", \"advertType\": 4, \"advertScene\": \"44,45,46,75,94,95,93\", \"advertIdsSort\": []}, {\"advertIds\": \"59e9799ad404cb703f88b6ff7a9ce8a7\", \"advertType\": 1, \"advertScene\": \"52,53,54,55,56,57,58,59,60,61,66,81,82,83,84,85,86,87,88,89,90,91,92\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 101,
+    "runTime": 40,
+    "name": "马甲包-自然量（新用户）",
+    "config": "[{\"advertIds\": \"dbc80d32f5c5f0d1e9fbdd3413ba3365\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,71,78,79,80,96\", \"advertIdsSort\": []}, {\"advertIds\": \"825c30e85f8df53921cfb249b0999a40\", \"advertType\": 4, \"advertScene\": \"44,46,75,95,94,93\", \"advertIdsSort\": []}, {\"advertIds\": \"b5778ffeb28c6f8ed41e9066282e71af\", \"advertType\": 1, \"advertScene\": \"*\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 102,
+    "runTime": 40,
+    "name": "马甲包-头条买量（新用户）",
+    "config": "[{\"advertIds\": \"b793c8e9f150e7cd7f676a50699ac339\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,71,78,79,80,96\", \"advertIdsSort\": []}, {\"advertIds\": \"5bc5416ad2d496ac00d56e31eb52ecca\", \"advertType\": 4, \"advertScene\": \"44,46,75,93,94,95\", \"advertIdsSort\": []}, {\"advertIds\": \"ef3d556be41814358dcc43757efd7806\", \"advertType\": 1, \"advertScene\": \"*\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 103,
+    "runTime": 40,
+    "name": "马甲包-自然量（老用户）",
+    "config": "[{\"advertIds\": \"50e7ecbeac0ff208304f402da7c5396e\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,71,78,79,80,96\", \"advertIdsSort\": []}, {\"advertIds\": \"4c63f337a97094a639850595823d9d1c\", \"advertType\": 4, \"advertScene\": \"44,46,75,93,94,95\", \"advertIdsSort\": []}, {\"advertIds\": \"a4756109ed26dc42c24e6151a69ff810\", \"advertType\": 1, \"advertScene\": \"*\", \"advertIdsSort\": []}]"
+  },
+  {
+    "id": 104,
+    "runTime": 40,
+    "name": "马甲包-头条买量（老用户）",
+    "config": "[{\"advertIds\": \"226bad0d04cb2291312556d8e09d8760\", \"advertType\": 2, \"advertScene\": \"6,13,1,7,15,25,28,10,11,19,21,29,4,18,5,8,26,24,9,17,23,30,2,12,14,16,20,27,3,22,31,32,33,34,35,36,37,38,39,40,41,42,43,49,50,51,71,78,79,80,96\", \"advertIdsSort\": []}, {\"advertIds\": \"7b459a8e6aaf2c8d7f0ce6081a80433c\", \"advertType\": 4, \"advertScene\": \"44,46,75,93,94,95\", \"advertIdsSort\": []}, {\"advertIds\": \"b33c1978fe49273ed51a932fc9964dfe\", \"advertType\": 1, \"advertScene\": \"*\", \"advertIdsSort\": []}]"
+  }
+]
