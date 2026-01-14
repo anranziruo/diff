@@ -1,0 +1,380 @@
+[
+  {
+    "id": 1,
+    "runTime": 7,
+    "channelNameIds": "47",
+    "userType": 1,
+    "isABTest": 1,
+    "groupConf": "[{\"tacticsId\": 46, \"userGroup\": 1}, {\"tacticsId\": 32, \"userGroup\": 2}]",
+    "status": 1
+  },
+  {
+    "id": 2,
+    "runTime": 7,
+    "channelNameIds": "41,51,43,52,42,53,59,58,45,54,57,46,49,48,56,76,44,50,55",
+    "userType": 1,
+    "isABTest": 2,
+    "groupConf": "[{\"tacticsId\": 33, \"userGroup\": -1}]",
+    "status": 1
+  },
+  {
+    "id": 3,
+    "runTime": 3,
+    "channelNameIds": "77",
+    "userType": 1,
+    "isABTest": 2,
+    "groupConf": "[{\"tacticsId\": 35, \"userGroup\": -1}]",
+    "status": 1
+  },
+  {
+    "id": 4,
+    "runTime": 3,
+    "channelNameIds": "85",
+    "userType": 1,
+    "isABTest": 2,
+    "groupConf": "[{\"tacticsId\": 36, \"userGroup\": -1}]",
+    "status": 1
+  },
+  {
+    "id": 5,
+    "runTime": 7,
+    "channelNameIds": "*",
+    "userType": 2,
+    "isABTest": 1,
+    "groupConf": "[{\"tacticsId\": 48, \"userGroup\": 1}, {\"tacticsId\": 34, \"userGroup\": 2}]",
+    "status": 1
+  },
+  {
+    "id": 6,
+    "runTime": 3,
+    "channelNameIds": "85",
+    "userType": 2,
+    "isABTest": 2,
+    "groupConf": "[{\"tacticsId\": 37, \"userGroup\": -1}]",
+    "status": 1
+  },
+  {
+    "id": 7,
+    "runTime": 5,
+    "channelNameIds": "72,67,65,64",
+    "userType": 1,
+    "isABTest": 2,
+    "groupConf": "[{\"tacticsId\": 38, \"userGroup\": -1}]",
+    "status": 1
+  },
+  {
+    "id": 8,
+    "runTime": 5,
+    "channelNameIds": "72,65,67,64",
+    "userType": 2,
+    "isABTest": 2,
+    "groupConf": "[{\"tacticsId\": 40, \"userGroup\": -1}]",
+    "status": 1
+  },
+  {
+    "id": 9,
+    "runTime": 5,
+    "channelNameIds": "62",
+    "userType": 1,
+    "isABTest": 2,
+    "groupConf": "[{\"tacticsId\": 39, \"userGroup\": -1}]",
+    "status": 1
+  },
+  {
+    "id": 10,
+    "runTime": 5,
+    "channelNameIds": "73",
+    "userType": 1,
+    "isABTest": 2,
+    "groupConf": "[{\"tacticsId\": 42, \"userGroup\": -1}]",
+    "status": 1
+  },
+  {
+    "id": 11,
+    "runTime": 5,
+    "channelNameIds": "61",
+    "userType": 1,
+    "isABTest": 2,
+    "groupConf": "[{\"tacticsId\": 41, \"userGroup\": -1}]",
+    "status": 1
+  },
+  {
+    "id": 12,
+    "runTime": 5,
+    "channelNameIds": "61",
+    "userType": 2,
+    "isABTest": 2,
+    "groupConf": "[{\"tacticsId\": 44, \"userGroup\": -1}]",
+    "status": 1
+  },
+  {
+    "id": 13,
+    "runTime": 5,
+    "channelNameIds": "62",
+    "userType": 2,
+    "isABTest": 2,
+    "groupConf": "[{\"tacticsId\": 43, \"userGroup\": -1}]",
+    "status": 1
+  },
+  {
+    "id": 14,
+    "runTime": 5,
+    "channelNameIds": "73",
+    "userType": 2,
+    "isABTest": 2,
+    "groupConf": "[{\"tacticsId\": 45, \"userGroup\": -1}]",
+    "status": 1
+  },
+  {
+    "id": 15,
+    "runTime": 100,
+    "channelNameIds": "75",
+    "userType": 1,
+    "isABTest": 2,
+    "groupConf": "[{\"tacticsId\": 49, \"userGroup\": -1}]",
+    "status": 1
+  },
+  {
+    "id": 16,
+    "runTime": 100,
+    "channelNameIds": "74",
+    "userType": 1,
+    "isABTest": 2,
+    "groupConf": "[{\"tacticsId\": 49, \"userGroup\": -1}]",
+    "status": 1
+  },
+  {
+    "id": 17,
+    "runTime": 100,
+    "channelNameIds": "*",
+    "userType": 2,
+    "isABTest": 2,
+    "groupConf": "[{\"tacticsId\": 49, \"userGroup\": -1}]",
+    "status": 1
+  },
+  {
+    "id": 18,
+    "runTime": 7,
+    "channelNameIds": "60",
+    "userType": 1,
+    "isABTest": 2,
+    "groupConf": "[{\"tacticsId\": 52, \"userGroup\": -1}]",
+    "status": 1
+  },
+  {
+    "id": 19,
+    "runTime": 101,
+    "channelNameIds": "82",
+    "userType": -1,
+    "isABTest": 2,
+    "groupConf": "[{\"tacticsId\": 53, \"userGroup\": -1}]",
+    "status": 1
+  },
+  {
+    "id": 20,
+    "runTime": 5,
+    "channelNameIds": "81",
+    "userType": 1,
+    "isABTest": 2,
+    "groupConf": "[{\"tacticsId\": 57, \"userGroup\": -1}]",
+    "status": 1
+  },
+  {
+    "id": 21,
+    "runTime": 5,
+    "channelNameIds": "81",
+    "userType": 2,
+    "isABTest": 2,
+    "groupConf": "[{\"tacticsId\": 56, \"userGroup\": -1}]",
+    "status": 1
+  },
+  {
+    "id": 22,
+    "runTime": 5,
+    "channelNameIds": "66",
+    "userType": 1,
+    "isABTest": 2,
+    "groupConf": "[{\"tacticsId\": 54, \"userGroup\": -1}]",
+    "status": 1
+  },
+  {
+    "id": 23,
+    "runTime": 5,
+    "channelNameIds": "66",
+    "userType": 2,
+    "isABTest": 2,
+    "groupConf": "[{\"tacticsId\": 55, \"userGroup\": -1}]",
+    "status": 1
+  },
+  {
+    "id": 24,
+    "runTime": 5,
+    "channelNameIds": "69",
+    "userType": -1,
+    "isABTest": 2,
+    "groupConf": "[{\"tacticsId\": 59, \"userGroup\": -1}]",
+    "status": 1
+  },
+  {
+    "id": 25,
+    "runTime": 5,
+    "channelNameIds": "68",
+    "userType": -1,
+    "isABTest": 2,
+    "groupConf": "[{\"tacticsId\": 58, \"userGroup\": -1}]",
+    "status": 1
+  },
+  {
+    "id": 26,
+    "runTime": 10,
+    "channelNameIds": "79",
+    "userType": 1,
+    "isABTest": 2,
+    "groupConf": "[{\"tacticsId\": 60, \"userGroup\": -1}]",
+    "status": 1
+  },
+  {
+    "id": 27,
+    "runTime": 10,
+    "channelNameIds": "79",
+    "userType": 2,
+    "isABTest": 2,
+    "groupConf": "[{\"tacticsId\": 61, \"userGroup\": -1}]",
+    "status": 1
+  },
+  {
+    "id": 28,
+    "runTime": 20,
+    "channelNameIds": "83",
+    "userType": 1,
+    "isABTest": 2,
+    "groupConf": "[{\"tacticsId\": 64, \"userGroup\": -1}]",
+    "status": 1
+  },
+  {
+    "id": 29,
+    "runTime": 20,
+    "channelNameIds": "83",
+    "userType": 2,
+    "isABTest": 2,
+    "groupConf": "[{\"tacticsId\": 65, \"userGroup\": -1}]",
+    "status": 1
+  },
+  {
+    "id": 30,
+    "runTime": 21,
+    "channelNameIds": "84",
+    "userType": 1,
+    "isABTest": 2,
+    "groupConf": "[{\"tacticsId\": 66, \"userGroup\": -1}]",
+    "status": 1
+  },
+  {
+    "id": 31,
+    "runTime": 21,
+    "channelNameIds": "84",
+    "userType": 2,
+    "isABTest": 2,
+    "groupConf": "[{\"tacticsId\": 67, \"userGroup\": -1}]",
+    "status": 1
+  },
+  {
+    "id": 32,
+    "runTime": 3,
+    "channelNameIds": "77",
+    "userType": 2,
+    "isABTest": 2,
+    "groupConf": "[{\"tacticsId\": 68, \"userGroup\": -1}]",
+    "status": 1
+  },
+  {
+    "id": 33,
+    "runTime": 5,
+    "channelNameIds": "86,70",
+    "userType": 1,
+    "isABTest": 2,
+    "groupConf": "[{\"tacticsId\": 70, \"userGroup\": -1}]",
+    "status": 1
+  },
+  {
+    "id": 34,
+    "runTime": 5,
+    "channelNameIds": "86,70",
+    "userType": 2,
+    "isABTest": 2,
+    "groupConf": "[{\"tacticsId\": 72, \"userGroup\": -1}]",
+    "status": 1
+  },
+  {
+    "id": 35,
+    "runTime": 5,
+    "channelNameIds": "72",
+    "userType": 1,
+    "isABTest": 2,
+    "groupConf": "[{\"tacticsId\": 69, \"userGroup\": -1}]",
+    "status": 2
+  },
+  {
+    "id": 36,
+    "runTime": 5,
+    "channelNameIds": "72",
+    "userType": 2,
+    "isABTest": 2,
+    "groupConf": "[{\"tacticsId\": 71, \"userGroup\": -1}]",
+    "status": 2
+  },
+  {
+    "id": 37,
+    "runTime": 30,
+    "channelNameIds": "88",
+    "userType": 1,
+    "isABTest": 2,
+    "groupConf": "[{\"tacticsId\": 80, \"userGroup\": -1}]",
+    "status": 1
+  },
+  {
+    "id": 38,
+    "runTime": 30,
+    "channelNameIds": "88",
+    "userType": 2,
+    "isABTest": 2,
+    "groupConf": "[{\"tacticsId\": 82, \"userGroup\": -1}]",
+    "status": 1
+  },
+  {
+    "id": 39,
+    "runTime": 31,
+    "channelNameIds": "89",
+    "userType": 1,
+    "isABTest": 2,
+    "groupConf": "[{\"tacticsId\": 73, \"userGroup\": -1}]",
+    "status": 1
+  },
+  {
+    "id": 40,
+    "runTime": 31,
+    "channelNameIds": "89",
+    "userType": 2,
+    "isABTest": 2,
+    "groupConf": "[{\"tacticsId\": 75, \"userGroup\": -1}]",
+    "status": 1
+  },
+  {
+    "id": 41,
+    "runTime": 40,
+    "channelNameIds": "90",
+    "userType": 1,
+    "isABTest": 2,
+    "groupConf": "[{\"tacticsId\": 87, \"userGroup\": -1}]",
+    "status": 1
+  },
+  {
+    "id": 42,
+    "runTime": 40,
+    "channelNameIds": "90",
+    "userType": 2,
+    "isABTest": 2,
+    "groupConf": "[{\"tacticsId\": 89, \"userGroup\": -1}]",
+    "status": 1
+  }
+]
